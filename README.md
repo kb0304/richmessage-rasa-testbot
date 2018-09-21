@@ -1,2 +1,1 @@
-#richmessage-rasa-testbot
-
+## Richmessage testbot in Rasa
