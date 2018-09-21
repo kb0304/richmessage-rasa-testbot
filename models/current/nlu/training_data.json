@@ -1,0 +1,53 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "richmessage",
+        "text": "- text button with url"
+      },
+      {
+        "intent": "richmessage",
+        "text": "- text button with msg in chat window"
+      },
+      {
+        "intent": "richmessage",
+        "text": "- image button with url"
+      },
+      {
+        "intent": "richmessage",
+        "text": "- image button with msg in chat window"
+      },
+      {
+        "intent": "richmessage",
+        "text": "- multiple text buttons"
+      },
+      {
+        "intent": "richmessage",
+        "text": "- horizontal text buttons"
+      },
+      {
+        "intent": "richmessage",
+        "text": "- button with compact webview"
+      },
+      {
+        "intent": "richmessage",
+        "text": "- hello in the chat window"
+      },
+      {
+        "intent": "richmessage",
+        "text": "- I clicked the airplane"
+      },
+      {
+        "intent": "hello",
+        "text": "- hi"
+      },
+      {
+        "intent": "hello",
+        "text": "- hello"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

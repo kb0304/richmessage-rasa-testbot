@@ -1,0 +1,2 @@
+#richmessage-rasa-testbot
+

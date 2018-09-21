@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+actions:
+- action_richmessage
+config:
+  store_entities_as_slots: true
+entities: []
+intents:
+- richmessage:
+    use_entities: true
+- hello:
+    use_entities: true
+slots: {}
+templates: {}

@@ -1,0 +1,10 @@
+{
+  "states": [
+    "intent_hello",
+    "intent_richmessage",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_action_richmessage"
+  ]
+}

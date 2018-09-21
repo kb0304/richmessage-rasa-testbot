@@ -1,0 +1,14 @@
+-## intent:richmessage
+-- text button with url
+-- text button with msg in chat window
+-- image button with url
+-- image button with msg in chat window
+-- multiple text buttons
+-- horizontal text buttons
+-- button with compact webview
+-- hello in the chat window
+-- I clicked the airplane
+
+-## intent:hello
+-- hi
+-- hello

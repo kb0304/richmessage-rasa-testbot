@@ -1,0 +1,6 @@
+intents:
+- richmessage
+- hello
+
+actions:
+- action_richmessage
